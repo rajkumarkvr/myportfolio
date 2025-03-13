@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.d622ee92.css",
+    "main.js": "/myportfolio/static/js/main.880fac69.js",
+    "static/js/415.4d6acbeb.chunk.js": "/myportfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/myportfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/habit-tracker.png": "/myportfolio/static/media/habit-tracker.0697c1756f11a519dbf6.png",
+    "static/media/battleship.png": "/myportfolio/static/media/battleship.ea55286da666978f2c69.png",
+    "static/media/resume.pdf": "/myportfolio/static/media/resume.338c79a8d675c9f85701.pdf",
+    "static/media/raj.png": "/myportfolio/static/media/raj.c44863f7fef670b56a3e.png",
+    "static/media/gitgrove.png": "/myportfolio/static/media/gitgrove.afc6e46e8ef53f49acb0.png",
+    "static/media/about.png": "/myportfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/auctionwebsite.webp": "/myportfolio/static/media/auctionwebsite.cc5e86443e0ceca4d5ec.webp",
+    "static/media/emailsystem.png": "/myportfolio/static/media/emailsystem.ba10194ace47b388151d.png",
+    "static/media/home-bg.jpg": "/myportfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/heapinsert.png": "/myportfolio/static/media/heapinsert.a8d6ee8d4e6d39841750.png",
+    "static/media/pre.svg": "/myportfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/myportfolio/index.html",
+    "main.d622ee92.css.map": "/myportfolio/static/css/main.d622ee92.css.map",
+    "main.880fac69.js.map": "/myportfolio/static/js/main.880fac69.js.map",
+    "415.4d6acbeb.chunk.js.map": "/myportfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/myportfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d622ee92.css",
+    "static/js/main.880fac69.js"
+  ]
+}
